@@ -14,7 +14,7 @@ Add the code in the template mentioned below to achieve the following objectives
 */
 
 /*Write a TB_TOP Code to send message with ID : CMP1 to console while blocking message with ID : CMP2. 
-Code is mentioned in the Instruction tab. Do not change Component code.*/
+Code is mentioned in the Instruction tab. Do not change Component code...*/
 
 `include "uvm_macros.svh"
 import uvm_pkg::*;
