@@ -11,3 +11,8 @@
 https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.1c/html/files/macros/uvm_message_defines-svh.html
 
 #### Reference: https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.2/html/index.html
+
+
+#### Field Macros Reference: 
+##### Reference_1: https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.1c/html/files/macros/uvm_object_defines-svh.html
+##### Reference_2: http://www.testbench.in/UT_04_UVM_TRANSACTION.html
