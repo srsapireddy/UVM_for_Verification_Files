@@ -7,6 +7,10 @@
 
 ![image](https://github.com/srsapireddy/UVM_for_Verification_Files/assets/32967087/aad1bd2e-15de-4d73-91b1-c09325ac5e2f)
 
+#### Difference Between UVM_OBJECT and UVM_COMPONENT
+uvm_components are "static-like" in that they are created during build_phase() and persist throughout the simulation. Think of them as the class-based equivalent of modules.
+uvm_objects are transient, such as transactions that are created when needed and disappear when not used anymore.
+
 ##### Reporting Macros: https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.1c/html/files/macros/uvm_message_defines-svh.html
 
 ##### Reference: https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.2/html/index.html
