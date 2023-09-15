@@ -52,3 +52,5 @@ module tb;
     c = comp::type_id::create("c", null); // use create method to create an object of an component
   end
 endmodule
+
+// if we try to execute the method with new method we cannot override the factory and we cannot see ack signal while creating a class
