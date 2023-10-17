@@ -16,6 +16,9 @@ uvm_objects are transient, such as transactions that are created when needed and
 #### UVM Class Diagram
 ![image](https://github.com/srsapireddy/UVM_for_Verification_Files/assets/32967087/7bd4eccd-5429-4f65-8df1-c8542b076883)
 
+#### UVM Phases
+![image](https://github.com/srsapireddy/UVM_for_Verification_Files/assets/32967087/78469976-60f6-4a0f-91ce-eaf139d1b2ed)
+
 ##### Reporting Macros: https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.1c/html/files/macros/uvm_message_defines-svh.html
 
 ##### Reference: https://verificationacademy.com/verification-methodology-reference/uvm/docs_1.2/html/index.html
